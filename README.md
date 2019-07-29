@@ -9,7 +9,9 @@ Self-Learning, Co-Training classification have been implemented for textual clas
 
 Implementation [link](https://github.com/iosifidisvasileios/Semi-Supervised-Learning/)
 
-Data [link](https://www.l3s.de/~iosifidis/TSentiment15/)
+Derived labels [link](https://www.l3s.de/~iosifidis/TSentiment15/)
+
+Crowdsourced labels [linl](https://l3s.de/\%7Eiosifidis/TSentiment15/crowdsource.csv)
 
 Promo video [link](https://www.youtube.com/watch?v=zC2HGGgwetY)
 
