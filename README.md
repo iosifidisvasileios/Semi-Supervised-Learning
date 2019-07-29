@@ -11,7 +11,7 @@ Implementation [link](https://github.com/iosifidisvasileios/Semi-Supervised-Lear
 
 Derived labels [link](https://www.l3s.de/~iosifidis/TSentiment15/)
 
-Crowdsourced labels [linl](https://l3s.de/\%7Eiosifidis/TSentiment15/crowdsource.csv)
+Crowdsourced labels [link](https://l3s.de/\%7Eiosifidis/TSentiment15)
 
 Promo video [link](https://www.youtube.com/watch?v=zC2HGGgwetY)
 
